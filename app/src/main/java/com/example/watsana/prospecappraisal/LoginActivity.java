@@ -37,15 +37,15 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         EditTextDate2 = (EditText) findViewById(R.id.EditTextDate2);
 
 
-//      Get Event From Click Save
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(LoginActivity.this, BankActivity.class);
-                intent.putExtra("Login",0);
-                startActivity(intent);
-            }
-        });
+////      Get Event From Click Save
+//        button.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent intent = new Intent(LoginActivity.this, BankActivity.class);
+//                intent.putExtra("Login",0);
+//                startActivity(intent);
+//            }
+//        });
 
 //      DatePicker
         buttonDate.setOnClickListener(this);

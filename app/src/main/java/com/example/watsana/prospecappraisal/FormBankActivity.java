@@ -7,19 +7,19 @@ import android.util.Log;
 
 public class FormBankActivity extends AppCompatActivity {
 
-//    Explicit
-private int indexAnInt;
+//  Explicit
+    private int indexAnInt;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_form_bank);
 
-//        Get Index
-
+//      Get Index
         getIndex();
 
-//        Add Fragment
+//      Add Fragment
+//        ถ้า มันมีความว่างเปล่ามั้ย เป็น null มั้ย
         if (savedInstanceState == null) {
 
             switch (indexAnInt) {
