@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--activity_main-->
+    <!--imageView-->
+    <dimen name="height_logo1">150dp</dimen>
+    <dimen name="top2">300dp</dimen>
+    <dimen name="height_logo3">90dp</dimen>
+    <dimen name="marginTop">10dp</dimen>
+
+    <!--Size textView-->
+    <dimen name="textSize_text1">24sp</dimen>
+    <dimen name="textSize_text2">20sp</dimen>
+    <dimen name="textSize_text3">18sp</dimen>
+    <dimen name="textSize_text4">20sp</dimen>
+    <dimen name="textSize_text5">30sp</dimen>
+    <dimen name="textSize_text6">40sp</dimen>
+
+    <!--Size width-->
+    <dimen name="layout_width">200dp</dimen>
+
+
+</resources>

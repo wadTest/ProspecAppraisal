@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Prospec Appraisal</string>
+
+    <string name="not_null">กรอกข้อมูล</string>
+
+    <!--Name Toolbar-->
+    <string name="toolbar_login">Prospec Appraisal</string>
+    <string name="massage_login">กรุณาลงทะเบียนก่อนใช้งาน</string>
+
+    <!--fragment_login-->
+    <string name="text_login">ลงทะเบียน</string>
+    <string name="text_user">ผู้ใช้งาน</string>
+    <string name="text_name1">ชื่อ-สกุล</string>
+    <string name="text_name_number1">เลขที่สมาชิก/ผู้ประเมินหลัก</string>
+    <string name="text_book_number1">หนังสือเลขที่</string>
+    <string name="text_assessor">ผู้ประเมินหลัก</string>
+    <string name="text_name2">ชื่อ-สกุล</string>
+    <string name="text_name_number2">เลขที่สมาชิก/ผู้ประเมินหลัก</string>
+    <string name="text_book_number2">หนังสือเลขที่</string>
+    <string name="text_power">ผู้รับมอบอำนาจ</string>
+    <string name="text_name3">ชื่อ-สกุล</string>
+    <string name="text_name_number3">เลขที่สมาชิก/ผู้ประเมินหลัก</string>
+    <string name="text_book_number3">หนังสือเลขที่</string>
+    <string name="text_name4">ชื่อ-สกุล</string>
+    <string name="text_name5">ชื่อ-สกุล</string>
+    <string name="text_turakan">ธุรการ</string>
+    <string name="text_department">สังกัดหนวยงาน</string>
+    <string name="samroud">ผู้สำรวจ</string>
+    <string name="pramain">ผู้ประเมิน</string>
+    <string name="two_num1">เป็นทั้งผู้สำรวจและผู้ประเมิน</string>
+    <string name="uesr_date">ลงวันที่</string>
+    <string name="pramain_date">ลงวันที่</string>
+    <string name="judkan">ผู้จัดการ</string>
+    <string name="mob_onat">ผู้รับมอบอำนาจ</string>
+    <string name="two_2">เป็นทั้งผู้รับมอบอำนาจและผู้จัดการ</string>
+    <string name="onat_date">ลงวันที่</string>
+    <string name="fai">ฝ่าย</string>
+    <string name="saka">สาขา</string>
+    <string name="soon">ศูนย์</string>
+</resources>
