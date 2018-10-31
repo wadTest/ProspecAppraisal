@@ -5,12 +5,13 @@
     android:orientation="vertical">
 
     <!--Toolbar-->
+    <!-- android:layout_height="?attr/actionBarSize"  จะมีความสูงเท่า actionBarSize-->
     <android.support.v7.widget.Toolbar
-        android:id="@+id/toolbar_land_tab1"
+        android:id="@+id/toolbar_login"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="@color/colorPrimary"
-        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" /> <!--อะไรที่อยู่ในนี้จะกลายเป็นสีขาวอัตโนมัติ-->
 
     <!--Content-->
     <ScrollView

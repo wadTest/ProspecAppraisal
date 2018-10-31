@@ -5,9 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
-import com.example.watsana.prospec.fragment.LandTab1Fragment;
-
-public class FormLandActivity extends AppCompatActivity {
+public class FormBankActivity extends AppCompatActivity {
 
 //    Explicit
 private int indexAnInt;
@@ -29,7 +27,7 @@ private int indexAnInt;
                 case 0:
                     getSupportFragmentManager()
                             .beginTransaction()
-                            .add(R.id.contentFormLandFragment, new LoginFragment())
+                            .add(R.id.contentFormBankFragment, new LoginFragment())
                             .commit();
                     break;
             }

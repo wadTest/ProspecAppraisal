@@ -5,9 +5,6 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.watsana.prospec.all_land_and_building.HomeActivity;
-import com.example.watsana.prospec.bank_ghb.BankActivity;
-
 public class MainActivity extends AppCompatActivity {
 
     // Explicit
